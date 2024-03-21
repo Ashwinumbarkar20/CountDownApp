@@ -1,0 +1,21 @@
+.Main-Heading{
+  text-align: center;
+
+  color:#006699;
+  background: none;
+}
+.App{
+height: 100vh;
+  background:url("../public/Background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+ 
+}
